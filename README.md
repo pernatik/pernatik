@@ -6,11 +6,15 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=E9D54D)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=097CDB)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sql&logoColor=097CDB)
 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=47C5FB)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=F8C52C)
 ![Gitea](https://img.shields.io/badge/-Gitea-090909?style=for-the-badge&logo=gitea&logoColor=F88C00)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=6296CC)
+
+![ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible&logoColor=6296CC)
+![terraform](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=terraform&logoColor=6296CC)
 
 
 ### OS:
@@ -23,6 +27,10 @@
 
 
 <!--
+
+ansible
+terraform
+
 **pernatik/pernatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
