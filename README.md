@@ -15,6 +15,8 @@
 
 ![ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible&logoColor=6296CC)
 ![terraform](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=terraform&logoColor=6296CC)
+![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
+![docker-compose](https://img.shields.io/badge/-docker_compose-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 
 
 ### OS:
