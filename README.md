@@ -1,42 +1,4 @@
-
-
-
-
-
-
-
-
-## Hey 👋, I'm Andrey Kovalev!  
-  
-
-<a href="https://github.com/pernatik" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
-I’m a DevOps engineer.
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning  Vanilla Kubernetes  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
+ 
 
 ## Languages and Tools  
 <div align="center">  
