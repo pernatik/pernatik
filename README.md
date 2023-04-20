@@ -1,29 +1,83 @@
-### Blockchain projects:
-##### DeFund, Ironfish, Masssa, Minima, Quai, Aleo, Aptos, Nibiru, OKP4, SUI, Chia
-
-### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=097CDB)
-
-![Jenkins](https://img.shields.io/badge/-Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=47C5FB)
-![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=gitlab&logoColor=F8C52C)
-![Gitea](https://img.shields.io/badge/-Gitea-090909?style=for-the-badge&logo=gitea&logoColor=F88C00)
-![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=6296CC)
-
-![ansible](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=ansible&logoColor=6296CC)
-![terraform](https://img.shields.io/badge/-ansible-090909?style=for-the-badge&logo=terraform&logoColor=6296CC)
-![docker](https://img.shields.io/badge/-docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
-![docker-compose](https://img.shields.io/badge/-docker_compose-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pernatik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
 
-ansible
-terraform
+
+
+## Hey 👋, I'm Andrey Kovalev!  
+  
+
+<a href="https://github.com/pernatik" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+
+### Glad to see you here!  
+I’m a DevOps engineer.
+  
+
+<br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🌱 I’m currently learning  Vanilla Kubernetes  
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pernatik&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pernatik&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+## Blockchain projects that interest me:
+##### DeFund, Ironfish, Masssa, Minima, Quai, Aleo, Aptos, Nibiru, OKP4, SUI, Chia  
+
+
+<!-- 
+
+
+
 
 **pernatik/pernatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
